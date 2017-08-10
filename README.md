@@ -68,3 +68,17 @@ You are good to go! Enjoy!
 
 ### <a href="https://www.dataweekends.com/sign-up" target="_blank">Dataweekends courses</a>
 ### <a href="https://www.dataweekends.com/udemy" target="_blank">Udemy Deep Learning course</a>
+
+
+
+
+
+## Graphviz
+If you get an error saying:
+
+```python
+InvocationException: GraphViz's executables not found
+```
+
+you need to install Graphviz. Find here the right version for your system:
+http://www.graphviz.org/
