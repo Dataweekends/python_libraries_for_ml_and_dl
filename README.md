@@ -66,5 +66,5 @@ You are good to go! Enjoy!
 
 ## Want more?
 
-### [Dataweekends courses](www.dataweekends.com/sign-up)
-### [Udemy Deep Learning course](www.dataweekends.com/udemy)
+### [Dataweekends courses](https://www.dataweekends.com/sign-up)
+### [Udemy Deep Learning course](https://www.dataweekends.com/udemy)
