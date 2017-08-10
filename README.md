@@ -5,6 +5,8 @@
 
 <a href="https://pybay.com/speaker/francesco-mosconi/#talk-114" target="_blank">Presented at Pybay 2017 Pre-conference workshop</a>
 
+<a href="https://www.slideshare.net/FrancescoMosconi/python-libraries-for-machine-learning-and-deep-learning" target="_blank">Slides</a>
+
 Introduction to Pandas, Scikit-Learn and Keras
 
 ## Get started guide
