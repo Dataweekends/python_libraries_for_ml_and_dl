@@ -3,7 +3,7 @@
 
 # Python Libraries for Machine Learning and Deep Learning
 
-[Pybay 2017 Pre-conference workshop](https://pybay.com/speaker/francesco-mosconi/#talk-114)
+<a href="https://pybay.com/speaker/francesco-mosconi/#talk-114" target="_blank">Presented at Pybay 2017 Pre-conference workshop</a>
 
 Introduction to Pandas, Scikit-Learn and Keras
 
