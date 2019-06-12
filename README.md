@@ -1,3 +1,8 @@
+## [Check our Zero To Deep Learning 5 day bootcamp. New dates are out!](https://bootcamp.zerotodeeplearning.com)
+
+----
+
+
 [![Build Status](https://travis-ci.org/Dataweekends/python_libraries_for_ml_and_dl.svg?branch=master)](https://travis-ci.org/Dataweekends/python_libraries_for_ml_and_dl)
 
 
